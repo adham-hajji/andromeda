@@ -1,0 +1,36 @@
+prendre epee
+prendre carburant
+inventaire
+voir
+aller nord-est
+aller est
+aller est
+prendre cookie
+manger cookie
+manger
+aller est
+aller nord
+prendre beamer
+aller sud
+aller est
+aller est
+charger
+aller sud
+aller nord-ouest
+voir
+aide
+retour
+retour
+retour
+retour
+retour
+retour
+retour
+retour
+retour
+retour
+prendre epee
+inventaire
+voir
+tirer
+retour

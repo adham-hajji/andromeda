@@ -1,0 +1,18 @@
+prendre epee
+prendre carburant
+inventaire
+voir
+aller nord-est
+lacher
+inventaire
+lacher
+manger
+aide
+aller est
+aller est
+prendre cookie
+manger cookie
+retour
+retour
+retour
+quitter

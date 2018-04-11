@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dialogues>
+    <Acte titre="Empire des Zoulous Galactiques">
+        <Mission titre="Buba Buda">
+            <Décors type="noir">
+                <Parole nom="Narrateur">En 5400 AEH (après l’extinction humaine), la Galaxie Andromède est déchirée entre deux factions idéologiques principales.</Parole>
+
+                <Parole nom="Narrateur">Le Monde libre, mené par la République d’Ugada, et l’Empire des Zoulous Galactiques, dirigé d'une main de fer par <personnage>Codou Chaka Ier</personnage>.</Parole>
+
+                <Parole nom="Narrateur">Des tensions naissent entre les deux camps, à cause de l’invasion par les Zoulous Galactiques de la <planète>planète naine d’Esper</planète> et de l’extraction illégale de ses <objet>gisements de pierrite</objet>.</Parole>
+
+                <Parole nom="Narrateur">La <objet>pierrite</objet> est un minerais extrêmement rare indispensable dans la confection de moteurs à voyage supraluminique. On ne peut la trouver qu'à <planète>Esper</planète> et <planète>Solaar</planète>.</Parole>
+
+                <Parole nom="Narrateur">Ces tensions sont nourries par une politique agressive et militariste des Zoulous, qui poursuivront pendant deux décennies la conquête de planètes riches en ressources.</Parole>
+
+                <Parole nom="Narrateur">A vrai dire, les Zoulous Galactiques sont connus et méprisés par la galaxie tout entière pour leur arrogance, leur soif de richesse et de pouvoir.</Parole>
+
+                <Parole nom="Narrateur">Ils contrôlent la majeure partie des richesses, des fonctions politiques et des entreprises de la Galaxie, comme par exemple la <entreprise>Banque @ndromeda</entreprise> et la firme énergétique <entreprise>Volta</entreprise>.</Parole>
+
+                <Parole nom="Narrateur">En réaction à la domination Zoulou, les Ugadiens s’organisent avec leurs alliés d’Esper et du système d’Almach pour combattre leurs oppresseurs.</Parole>
+                    
+                <Parole nom="Narrateur">C’est ainsi que la <guerre>Guerre d’Andromède</guerre> débute en 5420 AEH, vingt ans après l’annexion par les Zoulous Galactiques d’Esper.</Parole>
+
+                <Parole nom="Narrateur">D'ailleurs... nous sommes en 5420 AEH.</Parole>
+            </Décors>
+
+            <Décors type="paysage" localisation="ESIEE" date="1 Julien 5420 AEH" image="paysages/esiee.jpg">
+                <Parole nom="Denis Rubo" humeur="neutre">... et c'est ainsi que le réacteur à voyage supraluminique fonctionne. Des questions ?</Parole>
+
+                <Parole nom="Élèves" humeur="silencieux">...</Parole>
+
+                <Parole nom="Buba Buda" humeur="neutre">Monsieur, si je comprends bien, c'est la faible interraction de la <objet>pierrite</objet> avec le champs de Higgs qui nous permet de voyager à vitesse supraluminique ?</Parole>
+
+                <Parole nom="Denis Rubo" humeur="neutre">Tout à fait. Remarque pertinente. Toutefois, il est malheureux que vous </Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+            </Décors>
+        </Mission>
+
+        <Mission titre="">
+            <Décors>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+            </Décors>
+        </Mission>
+
+        <Mission titre="">
+            <Décors>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+            </Décors>
+        </Mission>
+
+        <Mission titre="">
+            <Décors>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+            </Décors>
+        </Mission>
+
+        <Mission titre="">
+            <Décors>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+            </Décors>
+        </Mission>
+    </Acte>
+
+    <Acte titre="Déroute">
+        <Mission titre="">
+            <Décors>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+            </Décors>
+        </Mission>
+
+        <Mission titre="">
+            <Décors>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+            </Décors>
+        </Mission>
+
+        <Mission titre="">
+            <Décors>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+            </Décors>
+        </Mission>
+
+        <Mission titre="">
+            <Décors>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+            </Décors>
+        </Mission>
+
+        <Mission titre="">
+            <Décors>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+            </Décors>
+        </Mission>
+    </Acte>
+
+    <Acte titre="Le Monde Libre">
+        <Mission titre="">
+            <Décors>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+            </Décors>
+        </Mission>
+
+        <Mission titre="">
+            <Décors>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+            </Décors>
+        </Mission>
+
+        <Mission titre="">
+            <Décors>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+            </Décors>
+        </Mission>
+
+        <Mission titre="">
+            <Décors>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+            </Décors>
+        </Mission>
+
+        <Mission titre="">
+            <Décors>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+                <Parole id="" nom="" humeur=""></Parole>
+            </Décors>
+        </Mission>
+    </Acte>
+</Dialogues>

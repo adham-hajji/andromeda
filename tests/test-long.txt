@@ -1,0 +1,11 @@
+prendre carburant
+aller nord-est
+aller est
+aller est
+aller est
+aller est
+aller est
+retour
+voir
+inventaire
+aide
